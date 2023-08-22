@@ -1,31 +1,26 @@
-# title(){return this.options.title||this.options.name}
+# Plain JS Picture Carousel - Practice Project
 
-Quick start:
+This is a practice project to build a Plain JS Picture Carousel. Navigate through images using the next and previous buttons.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Demo
 
-## Development
+![image](https://github.com/DevAbdurR/Plain-JS-Picture-Carousel/assets/112758727/2b859558-741c-4c6d-8b9d-8f466467bbfb)
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
-```
-$ yarn watch # npm run watch
-```
+See the live project in action on provided github-pages link.
 
-## Supporting Scrimba
+## Getting Started
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+To run the project locally, follow these steps:
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+1. Clone this repository: `git clone https://github.com/DevAbdurR/plain-js-picture-carousel.git`
+2. Open `index.html` in your browser.
 
-	It would also mean the world to us if you share the courses.  
+## Usage
 
-Happy Coding!
+1. Open the page and see the picture carousel.
+2. Use the next and previous buttons to navigate through the images.
+
+---
+
+This project was developed as a practice exercise for building a simple Plain JS Picture Carousel using vanilla JavaScript.
